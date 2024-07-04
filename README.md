@@ -13,7 +13,7 @@ This Python script allows you to send spoofed emails using the SpoofWave API. It
 
 2. Install the required Python library:
     ```bash
-    pip3 install -r requirements.txt
+    pip install requests
     ```
 
 ## Usage
@@ -24,7 +24,7 @@ This Python script allows you to send spoofed emails using the SpoofWave API. It
     ```
 
 2. Enter the required details when prompted:
-    - License key
+    - License key (can be purchased from [SpoofWave](https://spoofwave.com/buy/email))
     - Sender name
     - Sender email
     - Recipient email
